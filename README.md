@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizarIqbal93
-- 👀 I’m interested in learning more dev ops
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m interested in learning more about dev ops
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me : Khizar.i0066@gmail.com
 
