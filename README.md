@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizarIqbal93
-- 👀 I’m interested in learning more about dev ops
-- 🌱 I’m currently learning Go
+- 👀 My fav language is Go. I also know JS/TS and and some C#
+- 🌱 I’m currently learning C && Rust
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me : Khizar.i0066@gmail.com
 
