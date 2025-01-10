@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizarIqbal93
-- 👀 My fav language is Go. I also know JS/TS and and some C#
-- 🌱 I’m currently learning C && Rust
+- 👀 My fav language is Go. I also know JS/TS
+- 🌱 I’m currently learning Zig
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me : Khizar.i0066@gmail.com
 
